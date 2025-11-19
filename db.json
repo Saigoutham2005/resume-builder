@@ -1,0 +1,58 @@
+{
+  "resumes": [
+    {
+      "id": "a4e9",
+      "name": "goutham",
+      "email": "luckygoutham93@gmail.com",
+      "phone": "6303129580",
+      "education": "B.Tech",
+      "experience": "projects and internships",
+      "skills": "C++,React"
+    },
+    {
+      "id": "8982",
+      "name": "goutham",
+      "email": "luckygoutham93@gmail.com",
+      "phone": "6303129580",
+      "education": "B.Tech",
+      "experience": "internship and projects",
+      "skills": "C++,React"
+    },
+    {
+      "id": "0707",
+      "name": "goutham",
+      "email": "luckygoutham93@gmail.com",
+      "phone": "6303129580",
+      "education": "B.Tech",
+      "experience": "Real and usable projects",
+      "skills": "C++,React"
+    },
+    {
+      "id": "0324",
+      "name": "goutham",
+      "email": "luckygoutham93@gmail.com",
+      "phone": "6303129580",
+      "education": "B.Tech in SRM University",
+      "experience": "React Project",
+      "skills": "C++,React"
+    },
+    {
+      "id": "2c3b",
+      "name": "goutham",
+      "email": "luckygoutham93@gmail.com",
+      "phone": "6303129580",
+      "education": "B.Tech in SRM AP",
+      "experience": "resume builder project using react",
+      "skills": "C++,React"
+    },
+    {
+      "id": "9748",
+      "name": "goutham",
+      "email": "luckygoutham93@gmail.com",
+      "phone": "6303129580",
+      "education": "B.Tech in SRM AP",
+      "experience": "resume builder project using react",
+      "skills": "C++,React"
+    }
+  ]
+}

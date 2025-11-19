@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background: white;
+  }
+  #resume-preview {
+    box-shadow: none !important;
+    border: none !important;
+  }
+  button {
+    display: none !important;
+  }
+}

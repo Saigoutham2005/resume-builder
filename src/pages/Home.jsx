@@ -4,7 +4,7 @@ import resumeImg from "../assets/undraw_online-resume_z4sp.png";
 
 function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-[80vh] text-center bg-gradient-to-b from-gray-50 to-gray-100 px-6">
+    <div className="flex flex-col items-center justify-center min-h-[80vh] text-center bg-gradient-to-b from-blue-50 to-blue-100 px-6">
       {/* Heading */}
       <motion.h1
         className="text-5xl sm:text-6xl font-extrabold text-gray-800 mb-4"
@@ -42,13 +42,13 @@ function Home() {
       {/* Illustration or image (optional) */}
    
       <motion.img
-  src={resumeImg}
-  alt="Resume"
-  className="w-64 mt-10 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300"
-  initial={{ opacity: 0, y: 30 }}
-  animate={{ opacity: 1, y: 0 }}
-  transition={{ delay: 0.4, duration: 0.8 }}
-/>
+        src={resumeImg}
+        alt="Resume"
+        className="w-64 mt-10 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300"
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.4, duration: 0.8 }}
+      />
     </div>
   );
 }
